@@ -1,1 +1,1 @@
-# e-commerce-landing-page
+# -Simple-Ecommerce-Landing-Page
